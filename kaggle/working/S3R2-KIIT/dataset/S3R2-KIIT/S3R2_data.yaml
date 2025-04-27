@@ -1,0 +1,6 @@
+train: S3R2-KIIT/train/images
+val: S3R2-KIIT/valid/images
+test: S3R2-KIIT/test/images
+
+nc: 3
+names: ['car', 'bike', 'person']
